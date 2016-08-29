@@ -1,0 +1,2 @@
+# remote-avalon
+wizards only
